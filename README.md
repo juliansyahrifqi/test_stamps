@@ -1,6 +1,6 @@
-# Jalankan Script
+# Run Script
 
-Jalankan script dengan
+Run
 
 ```bash
 python app.py
